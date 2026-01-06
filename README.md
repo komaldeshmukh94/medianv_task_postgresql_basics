@@ -13,6 +13,4 @@ Relationship:
 one to many relationship.
 one user has many task.
 
-user:-controller service 
-task
 
